@@ -26,4 +26,5 @@ Em busca da minha primeira oportunidade na área.
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<div class="tenor-gif-embed" data-postid="9607861011889765197" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ai-grok-agent-artificial-intelligence-computer-gif-9607861011889765197">Ai Grok Sticker</a>from <a href="https://tenor.com/search/ai-stickers">Ai Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed">...</div>
+<script src="https://tenor.com/embed.js"></script>
