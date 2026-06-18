@@ -27,5 +27,5 @@ Em busca da minha primeira oportunidade na área.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <img align="right" src="./ai-grok.gif" width="140">
+  <img align="right" src="./ai-grok.gif" width="190">
 </div>
