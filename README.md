@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia de Software
 
-💻 Desenvolvedor Front-End em formação, com conhecimentos em HTML, CSS e JavaScript. Busco constantemente aprender novas tecnologias, criar projetos práticos e desenvolver soluções que transformem ideias em experiências digitais funcionais.
+💻 Futuro Desenvolvedor Front-End em formação, com conhecimentos em HTML, CSS e JavaScript. Busco constantemente aprender novas tecnologias, criar projetos práticos e desenvolver soluções que transformem ideias em experiências digitais funcionais.
 
 Em busca da minha primeira oportunidade na área.
 
