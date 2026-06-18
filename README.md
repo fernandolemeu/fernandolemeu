@@ -30,4 +30,6 @@ Em busca da minha primeira oportunidade na área.
   <img align="right" src="./ai-grok.gif" width="190">
 </div>
 
-<img src="https://raw.githubusercontent.com/fernandolemeu/gitrepo/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fernandolemeu/fernandolemeu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
