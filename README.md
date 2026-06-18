@@ -27,5 +27,5 @@ Em busca da minha primeira oportunidade na área.
 </a>
 
 <p align="center">
-  <img src="ai-grok.gif" width="350">
+  <img src="ai-grok.gif" width="180">
 </p>
