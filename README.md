@@ -31,5 +31,5 @@ Em busca da minha primeira oportunidade na área.
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fernandolemeu/fernandolemeu/output/github-snake-dark.svg" alt="Snake animation">
+  <img src="https://github.com/fernandolemeu/fernandolemeu/blob/output/snake.svg" alt="Snake animation">
 </p>
