@@ -21,3 +21,10 @@ Em busca da minha primeira oportunidade na área.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandolemeu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolemeu&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolemeu&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</p>
