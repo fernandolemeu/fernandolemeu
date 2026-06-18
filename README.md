@@ -27,5 +27,5 @@ Em busca da minha primeira oportunidade na área.
 </a>
 
 <p align="center">
-  <img src="(https://tenor.com/pt-BR/view/ai-grok-agent-artificial-intelligence-computer-gif-9607861011889765197)" width="350">
+  <img src="ai-grok.gif" width="350">
 </p>
