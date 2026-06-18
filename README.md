@@ -22,10 +22,10 @@ Em busca da minha primeira oportunidade na área.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandolemeu&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
 
-<a href="www.linkedin.com/in/fernando-leme-origuela-560a27322" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/fernando-leme-origuela-560a27322" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<p align="center">
-  <img src="ai-grok.gif" width="180">
-</p>
+  <img align="right" src="./ai-grok.gif" width="140">
+</div>
