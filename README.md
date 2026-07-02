@@ -49,8 +49,6 @@ Busco constantemente aprender novas tecnologias e criar projetos práticos para 
     <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  &nbsp;
-
   <a href="https://discord.com/users/SEU_ID">
     <img src="https://img.shields.io/badge/Discord-B22222?style=for-the-badge&logo=discord&logoColor=white">
   </a>
