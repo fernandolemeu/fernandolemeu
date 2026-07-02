@@ -17,7 +17,7 @@ Em busca da minha primeira oportunidade na área.
 
 ## Meu Git Status
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=fernandolemeu)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=fernandolemeu)](https://github.com/fernandolemeu)
   <img align="right" src="./ai-grok.gif" width="190">
 </div>
 
