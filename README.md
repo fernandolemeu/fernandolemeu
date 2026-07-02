@@ -20,6 +20,7 @@ Em busca da minha primeira oportunidade na área.
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=fernandolemeu)](https://github.com/fernandolemeu)
   <img align="right" src="./ai-grok.gif" width="190">
 </div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=fernandolemeu&langs_count=4&theme=shadow_red)](https://github-stats-extended.vercel.app/api/top-langs?username=fernandolemeu&langs_count=4&theme=shadow_red)
 
 <p align="center">
   <img src="https://github.com/fernandolemeu/fernandolemeu/blob/output/snake.svg" alt="Snake animation">
