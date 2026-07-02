@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/fernandolemeu/fernandolemeu/blob/output/snake.svg" alt="Snake animation">
-</p>
-
 <h1 align="center">Olá, eu sou Fernando 👋</h1>
 
 <p align="center">
